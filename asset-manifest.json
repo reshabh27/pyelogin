@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pyelogin/static/css/main.51baaae5.css",
+    "main.js": "/pyelogin/static/js/main.2ea0d8e1.js",
+    "static/js/787.21b9c66f.chunk.js": "/pyelogin/static/js/787.21b9c66f.chunk.js",
+    "index.html": "/pyelogin/index.html",
+    "main.51baaae5.css.map": "/pyelogin/static/css/main.51baaae5.css.map",
+    "main.2ea0d8e1.js.map": "/pyelogin/static/js/main.2ea0d8e1.js.map",
+    "787.21b9c66f.chunk.js.map": "/pyelogin/static/js/787.21b9c66f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51baaae5.css",
+    "static/js/main.2ea0d8e1.js"
+  ]
+}
